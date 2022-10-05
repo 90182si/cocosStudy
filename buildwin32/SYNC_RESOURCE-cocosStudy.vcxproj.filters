@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\buildwin32\CMakeFiles\23ae8c6667c65dd93d6e302b05fd7d21\SYNC_RESOURCE-cocosStudy.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\buildwin32\CMakeFiles\SYNC_RESOURCE-cocosStudy" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B562850D-978E-38EC-B5B2-71970CF284CD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

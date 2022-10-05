@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\cocos2d\external\unzip\ioapi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\cocos2d\external\unzip\unzip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\cocos2d\external\unzip\ioapi_mem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\cocos2d\external\unzip\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{53B3ED44-64E4-3027-B38F-19E5167CC974}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

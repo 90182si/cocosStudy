@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BackGroundLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ComponentMouseDemo.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EntityComponent.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EntityLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EntityStone.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EntityStruct.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QuadTree.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TransText.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WindowMoveObserver.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\China.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\PlayGame.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\backgroundImage.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\backgroundImage1.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\backgroundImage2.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\backgroundImage3.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\backgroundImage4.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\spriteDemo.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\spriteDemo2.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\stone.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\string.xml">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BackGroundLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ComponentCom.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ComponentDef.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ComponentMouseDemo.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Definition.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EntityLayer.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EntityStone.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EntityStruct.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ESComponent.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QuadTree.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TransText.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WindowMoveObserver.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{3A7D1455-6B4C-39B8-A434-C995F76B52AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{CBE9D782-72C3-3912-A449-61166EA6ABA2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{ED8A6286-8A86-349D-BA7A-D863CFC69252}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{53B3ED44-64E4-3027-B38F-19E5167CC974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{F3B26809-D41B-3484-9AC4-3C99C7DF4D82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{1544EE3D-5BD8-39B0-BC0D-99CF29715C07}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
