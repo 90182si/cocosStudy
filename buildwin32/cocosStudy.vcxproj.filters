@@ -1,59 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\AppDelegate.cpp">
-      <Filter>Source Files\Classes</Filter>
-    </ClCompile>
-    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\HelloWorldScene.cpp">
-      <Filter>Source Files\Classes</Filter>
-    </ClCompile>
     <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\proj.win32\main.cpp">
       <Filter>Source Files\proj.win32</Filter>
     </ClCompile>
     <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\cocos2d\cocos\precheader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\BackGroundLayer.cpp">
-      <Filter>Source Files\Classes</Filter>
+    <ClCompile Include="..\Classes\QuadTree.cpp">
+      <Filter>Source Files\Classes\四叉树</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\ComponentMouseDemo.cpp">
-      <Filter>Source Files\Classes</Filter>
+    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes\cocos文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\EntityComponent.cpp">
-      <Filter>Source Files\Classes</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Classes\EntityLayer.cpp">
-      <Filter>Source Files\Classes</Filter>
+    <ClCompile Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes\cocos文件</Filter>
     </ClCompile>
     <ClCompile Include="..\Classes\EntityStone.cpp">
-      <Filter>Source Files\Classes</Filter>
+      <Filter>Source Files\Classes\游戏实体</Filter>
     </ClCompile>
     <ClCompile Include="..\Classes\EntityStruct.cpp">
-      <Filter>Source Files\Classes</Filter>
+      <Filter>Source Files\Classes\游戏实体</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\GameScene.cpp">
-      <Filter>Source Files\Classes</Filter>
+    <ClCompile Include="..\Classes\ComponentMouseDemo.cpp">
+      <Filter>Source Files\Classes\组件</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\MainScene.cpp">
-      <Filter>Source Files\Classes</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Classes\QuadTree.cpp">
-      <Filter>Source Files\Classes</Filter>
+    <ClCompile Include="..\Classes\EntityComponent.cpp">
+      <Filter>Source Files\Classes\组件</Filter>
     </ClCompile>
     <ClCompile Include="..\Classes\TransText.cpp">
-      <Filter>Source Files\Classes</Filter>
+      <Filter>Source Files\Classes\文字转换</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainScene.cpp">
+      <Filter>Source Files\Classes\主菜单</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>Source Files\Classes\游戏场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BackGroundLayer.cpp">
+      <Filter>Source Files\Classes\游戏场景背景层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EntityLayer.cpp">
+      <Filter>Source Files\Classes\游戏场景实体层</Filter>
     </ClCompile>
     <ClCompile Include="..\Classes\WindowMoveObserver.cpp">
-      <Filter>Source Files\Classes</Filter>
+      <Filter>Source Files\Classes\游戏场景移动控制</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\AppDelegate.h">
-      <Filter>Source Files\Classes</Filter>
-    </ClInclude>
-    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\HelloWorldScene.h">
-      <Filter>Source Files\Classes</Filter>
-    </ClInclude>
     <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\proj.win32\main.h">
       <Filter>Source Files\proj.win32</Filter>
     </ClInclude>
@@ -111,47 +105,53 @@
     <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Resources\string.xml">
       <Filter>Resources</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\BackGroundLayer.h">
-      <Filter>Source Files\Classes</Filter>
+    <ClInclude Include="..\Classes\QuadTree.h">
+      <Filter>Source Files\Classes\四叉树</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\ComponentCom.h">
-      <Filter>Source Files\Classes</Filter>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes\cocos文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\ComponentDef.h">
-      <Filter>Source Files\Classes</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Classes\ComponentMouseDemo.h">
-      <Filter>Source Files\Classes</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Classes\Definition.h">
-      <Filter>Source Files\Classes</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Classes\EntityLayer.h">
-      <Filter>Source Files\Classes</Filter>
+    <ClInclude Include="E:\codes\cocos2d-x-4.0\cocos2d-x-4.0\~\MyCode\cocosStudy\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes\cocos文件</Filter>
     </ClInclude>
     <ClInclude Include="..\Classes\EntityStone.h">
-      <Filter>Source Files\Classes</Filter>
+      <Filter>Source Files\Classes\游戏实体</Filter>
     </ClInclude>
     <ClInclude Include="..\Classes\EntityStruct.h">
-      <Filter>Source Files\Classes</Filter>
+      <Filter>Source Files\Classes\游戏实体</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\ESComponent.h">
-      <Filter>Source Files\Classes</Filter>
+    <ClInclude Include="..\Classes\Definition.h">
+      <Filter>Source Files\Classes\定义</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\GameScene.h">
-      <Filter>Source Files\Classes</Filter>
+    <ClInclude Include="..\Classes\ComponentCom.h">
+      <Filter>Source Files\Classes\组件</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\MainScene.h">
-      <Filter>Source Files\Classes</Filter>
+    <ClInclude Include="..\Classes\ComponentDef.h">
+      <Filter>Source Files\Classes\组件</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\QuadTree.h">
-      <Filter>Source Files\Classes</Filter>
+    <ClInclude Include="..\Classes\ComponentMouseDemo.h">
+      <Filter>Source Files\Classes\组件</Filter>
     </ClInclude>
     <ClInclude Include="..\Classes\TransText.h">
-      <Filter>Source Files\Classes</Filter>
+      <Filter>Source Files\Classes\文字转换</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ESComponent.h">
+      <Filter>Source Files\Classes\组件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainScene.h">
+      <Filter>Source Files\Classes\主菜单</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>Source Files\Classes\游戏场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BackGroundLayer.h">
+      <Filter>Source Files\Classes\游戏场景背景层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EntityLayer.h">
+      <Filter>Source Files\Classes\游戏场景实体层</Filter>
     </ClInclude>
     <ClInclude Include="..\Classes\WindowMoveObserver.h">
-      <Filter>Source Files\Classes</Filter>
+      <Filter>Source Files\Classes\游戏场景移动控制</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -180,6 +180,39 @@
     </Filter>
     <Filter Include="Source Files\proj.win32">
       <UniqueIdentifier>{1544EE3D-5BD8-39B0-BC0D-99CF29715C07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\四叉树">
+      <UniqueIdentifier>{fa575235-5a6b-4b1c-9379-696a6c903e82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\定义">
+      <UniqueIdentifier>{7c8efbc1-3ea1-433a-a695-78a35c90d081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\组件">
+      <UniqueIdentifier>{9f7f00b5-80de-41c0-9093-a39f7088963e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\文字转换">
+      <UniqueIdentifier>{0234acb8-3174-410b-a6cf-89927c7f07cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\主菜单">
+      <UniqueIdentifier>{c594974b-dd77-469e-b194-623aa0392dbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\游戏场景">
+      <UniqueIdentifier>{4dbfb048-c873-4884-af06-82852e2ba30d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\游戏场景背景层">
+      <UniqueIdentifier>{d94afc32-c49f-4074-bdc8-2031daf3f9b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\游戏场景实体层">
+      <UniqueIdentifier>{1dd9d709-b9d5-42cb-9971-49d3e9e97574}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\游戏场景移动控制">
+      <UniqueIdentifier>{34bdf472-0457-4fa3-8299-1010a5657d45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\游戏实体">
+      <UniqueIdentifier>{87a76061-d70a-497f-bd99-d7b8e29c1f5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\cocos文件">
+      <UniqueIdentifier>{33719310-1c8f-4f2e-b75e-b92ec94515ef}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
