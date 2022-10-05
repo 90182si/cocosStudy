@@ -85,6 +85,7 @@ bool EntityLayer::init()
 
 void EntityLayer::Update(float x, float y, float scale)
 {
+
 	for (auto draw : m_drawNodes) {
 		draw->clear();
 		m_tree.getAllRect();
